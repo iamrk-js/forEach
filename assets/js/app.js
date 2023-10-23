@@ -167,7 +167,7 @@ postsArr.forEach((post) => {
                                     ${post.content}
                                 </p>
                             </div>
-                            <div class="card-footer">
+                            <div class="card-footer d-flex justify-content-between">
                                 <button class="btn btn-success">Edit</button>
                                 <button class="btn btn-danger">Delete</button>
                             </div>
